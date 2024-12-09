@@ -47,3 +47,5 @@ fig_bar = px.bar(
     height=500
 )
 st.plotly_chart(fig_bar)
+
+#fraud detection
